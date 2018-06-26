@@ -15,5 +15,6 @@ This extensions contains the following **extensions** in one single pack:
 * [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 &copy; 2018 Elisabeth Barth

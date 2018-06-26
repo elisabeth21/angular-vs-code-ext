@@ -2,7 +2,7 @@
     "name": "angular-extension-packs",
     "displayName": "Angular Extension Packs",
     "description": "Useful extensions and settings for Angular development with Visual Studio Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "elisabeth-barth",
     "engines": {
         "vscode": "^1.24.0"
@@ -24,6 +24,7 @@
         "christian-kohler.path-intellisense",
         "glen-84.sass-lint",
         "eg2.tslint",
-        "angular.ng-template"
+        "angular.ng-template",
+        "formulahendry.auto-rename-tag"
     ]
 }
