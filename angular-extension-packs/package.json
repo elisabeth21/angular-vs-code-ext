@@ -1,0 +1,25 @@
+{
+    "name": "angular-extension-packs",
+    "displayName": "Angular Extension Packs",
+    "description": "Useful extensions and settings for Angular development with Visual Studio Code.",
+    "version": "0.0.1",
+    "publisher": "elisabeth-barth",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "steoates.autoimport",
+        "msjsdiag.debugger-for-chrome",
+        "eamodio.gitlens",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "kisstkondoros.vscode-codemetrics",
+        "christian-kohler.path-intellisense",
+        "glen-84.sass-lint",
+        "eg2.tslint",
+        "angular.ng-template"
+    ]
+}
