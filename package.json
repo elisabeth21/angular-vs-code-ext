@@ -10,6 +10,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/elisabeth21/angular-vs-code-ext"
+    },
     "extensionDependencies": [ 
         "steoates.autoimport",
         "msjsdiag.debugger-for-chrome",
