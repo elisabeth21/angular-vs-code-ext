@@ -17,5 +17,6 @@ This extensions contains the following **extensions** in one single pack:
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 * [Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
+* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 &copy; 2018 Elisabeth Barth
